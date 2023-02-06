@@ -10,14 +10,14 @@ body {
 #wrapper {
     max-width: 1000px;
     margin: 0 auto;
-    background-color: white;
+    background-color: #ffffff;
 }
 header img {
     width: 100%; 
     display: block;
 }
 nav {
-    background-color: darkcyan;
+    background-color: #008b8b;
 }
 
 a.menu {
@@ -29,10 +29,10 @@ a.menu {
     text-align: center;
 }
 a.menu:hover {
-    background-color: crimson;
+    background-color: #dc143c;
 }
 .active {
-    background-color: crimson;
+    background-color: #dc143c;
 }
 article {
     margin-top: 30px;
@@ -44,7 +44,7 @@ article h1 {
     text-align: center;
     margin: 0 10% 20px 10%;
     padding-bottom: 15px;
-    border-bottom: 2px solid crimson;
+    border-bottom: 2px solid #dc143c;
 }
 img.left {
     float: left;
@@ -64,8 +64,8 @@ iframe {
 }
 footer {
     height: 40px;
-    background-color: darkcyan;
-    color: white;
+    background-color: #008b8b;
+    color: #ffffff;
     line-height: 40px;
     text-align: center;
     margin-top: 10px;
@@ -78,7 +78,7 @@ table {
 }
 
 table tr {
-    background-color: #ccc;
+    background-color: #cccccc;
 }
 
 td.kolumna1 {
