@@ -60,6 +60,7 @@ article p {
 }
 iframe {
     width: 100%;
+    border: 0px;
 }
 footer {
     height: 40px;
@@ -68,4 +69,25 @@ footer {
     line-height: 40px;
     text-align: center;
     margin-top: 10px;
+}
+
+table {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+table tr {
+    background-color: #ccc;
+}
+
+td.kolumna1 {
+    width: 100px;
+    text-align: right;
+}
+table td {
+    padding: 5px 5px;
+}
+td.kolumna2 {
+    font-weight: bold;
 }
